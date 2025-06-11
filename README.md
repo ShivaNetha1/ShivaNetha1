@@ -16,7 +16,7 @@ I love transforming raw data into insightful visual stories with tools like Powe
 As a hobbyist, I enjoy analyzing stock charts using technical indicators and historical data patterns.
 
 🎥 **Content Creation**  
-I run YouTube channels focused on spiritual, nature, and travel vlogs. This journey has helped me understand my audience and strengthen my communication skills.
+I run YouTube channel focused on spiritual, nature, and travel vlogs. This journey has helped me understand my audience and strengthen my communication skills.
 
 🛠 **Tech Stack**  
 `Python` | `MySQL` | `Power BI` | `Excel` | `Flask` | `Jupyter` | `Git`  
